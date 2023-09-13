@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "flutter-chatbot-shbr",
+  "private_key_id": "3b6b16367e4739064b16bf1300e7588afb5cde4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBP9lFHD6ht3TZ\ntK7mygL8tGhnfAo/77RI/Hx0Wc7awzP4oHL7hCQ/0/NNqMirCJNWiwfaQQxIY/H8\noS9lPPHf5q/M6/2VSJIcyRTVN0OMbZezQNvyEBgRk4Uvkla7SNM5afcMh7h+2Uuh\nt3m0Vg/TuA+PPsnNRUp9vKuHMAnSPwJm4P1QptdiFvS6r4ja46x+EfuL5CLAUtkT\nCwcs+vZDIAu81tKdTcrH8ZEDrhlkuvj65F8IE17+odK9W23OYZkLB6nZDQQCSmkT\nM3x+pWfSqVNtkFaAlqNInQR17DzBwbBl/ugLR50mR3F0GnY0ZnKY0uydxc8PijcS\nUi0gnfyVAgMBAAECggEAAyKdTIb9CCQhD/Ajv0hLPJzTrcwgIXHq351DCqMzXS66\nDuBRhT2bVfLDGYExwj6ZH1gRmEuiXqFKeYIG8hJHTU3hj8ZLXqrm/fMQNLZZEPPt\nOGIGv3pd3ZkiWcd6wz6W+LE8qhYgmuQ9GyJOJewYhSOREw6eeQdVAk23jbGskx3d\n1BiQhG9qi0eMpOgp3JNrOTz1C4WIiIPZWro0HrAozZjJMTQETSB1FvU1Wtv3ov1N\nC7UHMquxPsbTak828Q+dyjiF8q90D094y8hfdylESpf1AAUnzyUJqC7QgJZkLyXO\n95T1YrkiSDcThi9b9WF5V+8k4Al0hiuvueZD+ULHGQKBgQD1uZ+9j/ex1mbTCd9T\nMsmy1VtLez+6ChsHkuKfZmXnngv4Q40VoUBWATRZ+8/rF9Ya4AZKZ/27V+gx0QjI\nbOvXoqhq36dIRPWm16JJmFVblxMRob1Kr318w9ViCzNiIHC2dHU7ClraGWqJxB5x\nMnhUvaRithC2Wk7gMYCNPR+SqQKBgQDJVH8KLl8YYGMLAi4bHTq1TWr1DRJtos3Z\nqx8cvcl8vGlridnWtmhLkI3T/02ZRfyioewg21c1oFPbRw/zvt2A65PA8MDdzi1t\nXBc/pv5/ebTP+iKpgoX3dHl1qDRdTKB2oRPyTU4IP4Tn3YSu0Fj3Dc6Tu6/nvasV\nAa+la4d6DQKBgB+0e6/xy3vethW0yGPrwaqZbNYoaOiQNTyc7zCx/aQM+G5oCOQp\nkiuGrEKQAxvKT43YKfefw1VQ2lzTI9b4dtWz3xcrFGJ2w1trpzznstvGemdj/xCL\n5B0dB4NG/rJCjUh9bkLX6zEI5n4wF91zLaOBdJxn8XAV5ud2e6e9oz1BAoGBAIIT\nK3kCeMIhFBx6rhsqiVG10RK9/VgERYcKfjFtlQ4YFOw7xhhpBX08ycVcP2B1zUGt\n6Adabz/gdA1KHk5W1HmEupN/eLxVhxgO1Z50YB0wHtf4PgjSoYc9I3QW1q4o4cuD\nSoXT2ESP9WhwwFbJmZEUxJDCRGYvLqeFzVvM21zJAoGBALXOS24PVBi2ShPBOj0R\njM+Ne3DpuszI4yK3tXtX8iDmVEg2VwpeOOYBITh4Q9s99R2090Bkup9+z7sUL44m\n5XlmK4zyNNJb3pvymQF0AOLBCwU4ctK0dPfsLWh+y8DOHQxDtJ0UFW5zobLSJBfG\nPtqgboTG4vBZuPoiw/9mYJ5e\n-----END PRIVATE KEY-----\n",
+  "client_email": "ai-chatbot@flutter-chatbot-shbr.iam.gserviceaccount.com",
+  "client_id": "110814450696860906757",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ai-chatbot%40flutter-chatbot-shbr.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
