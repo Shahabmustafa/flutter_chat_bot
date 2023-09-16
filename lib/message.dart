@@ -30,16 +30,29 @@ class _MessagePageState extends State<MessagePage> {
                     borderRadius: BorderRadius.only(
                       bottomRight: Radius.circular(20),
                       bottomLeft: Radius.circular(20),
-                      topLeft: Radius.circular(widget.messages[index]["isUserMessage"] ? 20 : 0),
-                      topRight: Radius.circular(widget.messages[index]["isUserMessage"] ? 0 : 20),
+                      topLeft: Radius.circular(20),
+                      topRight: Radius.circular(20),
                     ),
                   ),
                   constraints: BoxConstraints(
                     maxWidth: w * 2/3,
                   ),
-                  child: Text(widget.messages[index]["message"].text.text[0],style: TextStyle(
-                    color: widget.messages[index]["isUserMessage"] ? Colors.white :  Colors.white,
-                  ),),
+                  child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      CircleAvatar(
+                        backgroundImage: widget.messages[index]["isUserMessage"] ? AssetImage("assets/images/profile.png") : AssetImage("assets/images/chatbot.png"),
+                      ),
+                      SizedBox(
+                        width: w * 0.02,
+                      ),
+                      Flexible(
+                        child: Text(widget.messages[index]["message"].text.text[0],style: TextStyle(
+                          color: widget.messages[index]["isUserMessage"] ? Colors.white :  Colors.white,
+                        ),),
+                      ),
+                    ],
+                  ),
                 ),
               ],
             ),
